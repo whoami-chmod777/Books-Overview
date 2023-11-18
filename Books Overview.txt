@@ -1,0 +1,9 @@
+Red Team Field Manual
+Blue Team Field Manual
+Linux  Field Manual
+Blue Team Handbook: Incident Response Edition
+Operator handbook
+Hacker's Black Book
+Linux Basics For Hackers
+Getting Started Becoming a Master Hacker
+OWASP Testing Guide
