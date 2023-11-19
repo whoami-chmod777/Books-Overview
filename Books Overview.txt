@@ -1,3 +1,6 @@
+
+-- Hacking --
+
 Red Team Field Manual
 Blue Team Field Manual
 Linux  Field Manual
@@ -7,3 +10,10 @@ Hacker's Black Book
 Linux Basics For Hackers
 Getting Started Becoming a Master Hacker
 OWASP Testing Guide
+
+
+
+
+-- Networking --
+
+DNS/DHCP - Grundlagen und Praxis
