@@ -11,7 +11,7 @@ Linux Basics For Hackers
 Getting Started Becoming a Master Hacker
 OWASP Testing Guide
 
-
+Google Hacking for Penetration Testers
 
 
 -- Networking --
